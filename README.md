@@ -10,4 +10,4 @@ Here we follow and summarise this [helpful introduction](https://towardsdatascie
 
 ## Data
 
-The nycflights13 dataset is commonly used in R for exploratory analysis. Here we also use data from NYC flights in 2013, which can be found on Kaggle [here](https://www.kaggle.com/lampubhutia/nyc-flight-delay).
+Data for NYC flights in 2013 is used, which can be found on Kaggle [here](https://www.kaggle.com/lampubhutia/nyc-flight-delay).
