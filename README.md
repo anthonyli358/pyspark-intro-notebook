@@ -1,6 +1,6 @@
 # pyspark-intro-notebook
 
-An introductory notebook for basic exploration of PySpark functionality. 
+An introductory notebook for basic exploration of [PySpark](https://spark.apache.org/docs/latest/api/python/index.html) functionality. 
 
 ## Notebook
 
